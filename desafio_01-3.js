@@ -125,4 +125,3 @@ for (let i=0; i<contaUsuarios.length; i++){
         console.log (`${contaUsuarios[i].nome} possui saldo POSITIVO de ${saldo}.`)
     }
 }
-
